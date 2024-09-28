@@ -3,7 +3,7 @@ from qiskit_aer import Aer
 import matplotlib.pyplot as plt
 
 # user input
-no_of_bits = 5
+no_of_bits = int(input("Enter the number of bits: "))
 
 # Create a quantum circuit with 1 qubit and 1 classical bit
 qc = QuantumCircuit(1, 1)
