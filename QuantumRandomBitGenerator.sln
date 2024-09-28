@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "QuantumRandomBitGenerator", "QuantumRandomBitGenerator.pyproj", "{F79E8F2E-0848-4C07-B1BA-2977EAC7E353}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F79E8F2E-0848-4C07-B1BA-2977EAC7E353}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F79E8F2E-0848-4C07-B1BA-2977EAC7E353}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7F0FE10-8B71-487C-8568-684BCE5BDEAC}
+	EndGlobalSection
+EndGlobal
